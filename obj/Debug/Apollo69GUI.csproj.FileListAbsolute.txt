@@ -1,0 +1,12 @@
+C:\Users\hirad\Source\Repos\apollo-69-gui\bin\Debug\Apollo69GUI.exe.config
+C:\Users\hirad\Source\Repos\apollo-69-gui\bin\Debug\Apollo69GUI.exe
+C:\Users\hirad\Source\Repos\apollo-69-gui\bin\Debug\Apollo69GUI.pdb
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.csproj.AssemblyReference.cache
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.Properties.Resources.resources
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.RealTimeChart.resources
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.csproj.GenerateResource.cache
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.csproj.CoreCompileInputs.cache
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.exe
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.pdb
+C:\Users\hirad\Source\Repos\apollo-69-gui\obj\Debug\Apollo69GUI.GUI.resources
